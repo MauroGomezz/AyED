@@ -1,2 +1,2 @@
-Nombre: Mauro Gomnez \N
+Nombre: Mauro Gomnez \n
 Curso: K1043
