@@ -1,3 +1,3 @@
-Nombre: Mauro Gomnez
+Nombre: Mauro Gomez
 
 Curso: K1043
